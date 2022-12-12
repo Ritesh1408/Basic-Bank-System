@@ -1,2 +1,8 @@
 # Basic-Bank-System
-Internship Project
+
+Created a Basic Banking System Website using 
+The features of this project : 
+             -> Facilitate the transfer of money from one user to another in their bank account -> stores the detials of user in database -> all the transaction details                    are recorded and stores in database -> contains webpages such as home page, contact and about page, tranaaction , customer and sending money page!
+Tool use :- VS code, Xammp, MySQL DATABASE
+Language :- HTML, CSS, PHP and Javascript 
+
